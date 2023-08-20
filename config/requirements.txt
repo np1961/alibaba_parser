@@ -1,0 +1,5 @@
+ numpy
+ fake_useragent 
+ webdriver_manager 
+ selenium
+ 
